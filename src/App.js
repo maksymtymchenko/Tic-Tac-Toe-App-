@@ -52,7 +52,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>Tic Tak Toe App</h2>
+      <h2>Tic Tac Toe App</h2>
       <div className="square__wrapper">
         {squares.map((square, index) => (
           <div
